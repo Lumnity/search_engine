@@ -5,9 +5,9 @@
 #include <string>
 #include <algorithm>
 #include <gtest/gtest.h>
-#include "ConverterJSON.h"
-#include "InvertedIndex.cpp"
-#include "SearchServer.cpp"
+#include "include/ConverterJSON.h"
+#include "src/InvertedIndex.cpp"
+#include "src/SearchServer.cpp"
 
 void TestInvertedIndexFunctionality(
         const std::vector<std::string>& docs,

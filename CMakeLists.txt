@@ -24,3 +24,7 @@ enable_testing()
 target_link_libraries(search_engine PRIVATE gtest_main)
 include(GoogleTest)
 gtest_discover_tests(search_engine)
+
+
+
+
