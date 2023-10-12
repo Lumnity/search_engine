@@ -1,0 +1,14 @@
+# ninja log v5
+6	3907	7183193394044880	CMakeFiles/search_engine.dir/main.cpp.obj	4695df298b4056de
+3908	7362	7183193428621456	search_engine.exe	25265c95fe1b52ed
+2	541	7188118610660868	build.ninja	1730f80915af69a
+11	5709	7183168588731474	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	37653adee7968d84
+16	1281	7183168544533974	_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	db61f0daa81a896c
+7456	7525	7183168607001481	lib/libgtest_maind.a	74e4f14a6d8336f3
+3908	7362	7183193428621456	search_engine[1]_tests.cmake	25265c95fe1b52ed
+5709	7456	7183168606280377	lib/libgtestd.a	58bdd043c7c226e8
+3908	7362	7183193428621456	C:/Users/mikha/CLionProjects/search_engine/cmake-build-debug/search_engine[1]_tests.cmake	25265c95fe1b52ed
+6	3256	7188118660801511	CMakeFiles/search_engine.dir/main.cpp.obj	4695df298b4056de
+3256	6852	7188118696785891	search_engine.exe	25265c95fe1b52ed
+3256	6852	7188118696785891	search_engine[1]_tests.cmake	25265c95fe1b52ed
+3256	6852	7188118696785891	C:/Users/mikha/CLionProjects/search_engine/cmake-build-debug/search_engine[1]_tests.cmake	25265c95fe1b52ed
