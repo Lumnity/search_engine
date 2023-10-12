@@ -1,6 +1,6 @@
 #include <gtest/gtest.h>
-#include "SearchServer.h"
-#include "InvertedIndex.h"
+#include "../include/SearchServer.h"
+#include "../include/InvertedIndex.h"
 
 void TestInvertedIndexFunctionality(
         const std::vector<std::string>& docs,
